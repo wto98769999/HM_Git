@@ -1,0 +1,36 @@
+﻿生成启动时间为 2015/4/30 14:55:06。
+     1>项目“G:\HM-12.0_modified\build\vc10\TLibEncoder_vc10.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"G:\HM-12.0_modified\build\\..\source\Lib\\" /I"G:\HM-12.0_modified\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\\" /Fd"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\TEncSlice.cpp
+         TEncSlice.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\NALwrite.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\SEIwrite.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncAnalyze.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncCavlc.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncCu.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncEntropy.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncGOP.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncPic.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncSbac.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncSearch.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncSlice.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TEncTop.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc10.vcxproj -> G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib
+       FinalizeBuildStatus:
+         正在删除文件“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.unsuccessfulbuild”。
+         正在对“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\HM-12.0_modified\build\vc10\TLibEncoder_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.99

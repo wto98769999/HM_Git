@@ -1,0 +1,34 @@
+﻿生成启动时间为 2015/4/29 22:39:41。
+     1>项目“G:\HM-12.0_modified\build\vc10\TAppDecoder_vc10.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"G:\HM-12.0_modified\build\\..\source\Lib\\" /I"G:\HM-12.0_modified\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\\" /Fd"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\App\TAppDecoder\TAppDecTop.cpp ..\..\source\App\TAppDecoder\decmain.cpp
+         decmain.cpp
+         TAppDecTop.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\HM-12.0_modified\build\\..\bin\vc10\Win32\Debug\TAppDecoder.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\HM-12.0_modified\bin\vc10\Win32\Debug\TAppDecoder.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\HM-12.0_modified\build\\..\bin\vc10\Win32\Debug\TAppDecoder.lib" /MACHINE:X86 "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest.res"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\decmain.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecCfg.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecTop.obj"
+         "G:\HM-12.0_modified\build\vc10\Win32\Debug\TAppCommon\TAppCommon.lib"
+         "G:\HM-12.0_modified\build\vc10\Win32\Debug\TLibCommon\TLibCommon.lib"
+         "G:\HM-12.0_modified\build\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lib"
+         "G:\HM-12.0_modified\build\vc10\Win32\Debug\TLibVideoIo\TLibVideoIO.lib"
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.embed.manifest" /manifest "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         TAppDecoder_vc10.vcxproj -> G:\HM-12.0_modified\build\\..\bin\vc10\Win32\Debug\TAppDecoder.exe
+       FinalizeBuildStatus:
+         正在删除文件“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.unsuccessfulbuild”。
+         正在对“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppDecoder\TAppDecoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\HM-12.0_modified\build\vc10\TAppDecoder_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.81

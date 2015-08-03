@@ -1,0 +1,31 @@
+﻿生成启动时间为 2015/4/29 22:39:33。
+     1>项目“G:\HM-12.0_modified\build\vc10\TLibDecoder_vc10.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TLibDecoder.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"G:\HM-12.0_modified\build\\..\source\Lib\\" /I"G:\HM-12.0_modified\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\\" /Fd"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         TDecTop.cpp
+         TDecGop.cpp
+         正在生成代码...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lib" /NOLOGO "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\AnnexBread.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\NALread.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\SEIread.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\SyntaxElementParser.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecBinCoderCABAC.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecCAVLC.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecCu.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecEntropy.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecGop.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecSbac.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecSlice.obj"
+         "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TDecTop.obj"
+         TLibDecoder_vc10.vcxproj -> G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lib
+       FinalizeBuildStatus:
+         正在删除文件“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TLibDecoder.unsuccessfulbuild”。
+         正在对“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TLibDecoder\TLibDecoder.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\HM-12.0_modified\build\vc10\TLibDecoder_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.72

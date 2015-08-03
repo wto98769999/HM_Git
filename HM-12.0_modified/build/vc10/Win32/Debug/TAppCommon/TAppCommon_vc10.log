@@ -1,0 +1,20 @@
+﻿生成启动时间为 2015/4/27 19:02:57。
+     1>项目“G:\HM-12.0_modified\build\vc10\TAppCommon_vc10.vcxproj”在节点 4 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"G:\HM-12.0_modified\build\\..\source\Lib\\" /I"G:\HM-12.0_modified\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\\" /Fd"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TAppCommon\program_options_lite.cpp
+         program_options_lite.cpp
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lib" /NOLOGO "G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\program_options_lite.obj"
+         TAppCommon_vc10.vcxproj -> G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.unsuccessfulbuild”。
+         正在对“G:\HM-12.0_modified\build\\vc10\Win32\Debug\TAppCommon\TAppCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\HM-12.0_modified\build\vc10\TAppCommon_vc10.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.91
