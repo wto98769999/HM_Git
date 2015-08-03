@@ -1,0 +1,69 @@
+﻿生成启动时间为 2015/1/19 10:16:19。
+     1>项目“F:\HM-12.0\build\vc10\TLibCommon_vc10.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"F:\HM-12.0\build\\..\source\Lib\\" /I"F:\HM-12.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         TComYuv.cpp
+         TComWeightPrediction.cpp
+         TComTrQuant.cpp
+         TComSlice.cpp
+     1>f:\hm-12.0\source\lib\tlibcommon\tcomslice.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         TComSampleAdaptiveOffset.cpp
+         TComRom.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRdCost.cpp
+         TComPrediction.cpp
+         TComPicYuvMD5.cpp
+         TComPicYuv.cpp
+         TComPicSym.cpp
+         TComPic.cpp
+         TComPattern.cpp
+         TComMotionInfo.cpp
+         TComLoopFilter.cpp
+         TComInterpolationFilter.cpp
+         TComDataCU.cpp
+         TComCABACTables.cpp
+         TComBitStream.cpp
+         正在生成代码...
+         正在编译...
+         SEI.cpp
+         ContextModel3DBuffer.cpp
+         ContextModel.cpp
+         正在生成代码...
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"F:\HM-12.0\build\\..\source\Lib\\" /I"F:\HM-12.0\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\ContextModel.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\libmd5.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\SEI.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPattern.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPic.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComRom.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComSlice.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TComYuv.obj"
+         TLibCommon_vc10.vcxproj -> F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib
+       FinalizeBuildStatus:
+         正在删除文件“F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.unsuccessfulbuild”。
+         正在对“F:\HM-12.0\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\HM-12.0\build\vc10\TLibCommon_vc10.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:22.73
